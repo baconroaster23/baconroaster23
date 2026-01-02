@@ -13,96 +13,96 @@ Programming & Languages
 
 - C++
 
-. C#
+- C#
 
-. C
+- C
 
-. Bash
+- Bash
 
 # Systems & Environments
 
-. Windows (internals, debugging, reverse engineering)
+- Windows (internals, debugging, reverse engineering)
 
-. Linux
+- Linux
 
-. Ubuntu
+- Ubuntu
 
-. Arch Linux
+- Arch Linux
 
-. Kali Linux
+- Kali Linux
 
-. .NET Framework & .NET Runtime
+- .NET Framework & .NET Runtime
 
-Virtualization (VMware, VirtualBox)
+- Virtualization (VMware, VirtualBox)
 
-Basic server & environment setup
+- Basic server & environment setup
 
-Reverse Engineering & Low-Level
+# Reverse Engineering & Low-Level
 
-Reverse Engineering (PC applications & games)
+- Reverse Engineering (PC applications & games)
 
-Static & Dynamic Analysis
+- Static & Dynamic Analysis
 
-Memory analysis and debugging
+- Memory analysis and debugging
 
-Binary patching
+- Binary patching
 
-Windows API analysis
+- Windows API analysis
 
-Assembly-level understanding (x86/x64 concepts)
+- Assembly-level understanding (x86/x64 concepts)
 
-Game Hacking & Research
+# Game Hacking & Research
 
-Game reverse engineering
+- Game reverse engineering
 
-Memory editing & manipulation
+- Memory editing & manipulation
 
-Internal & external tooling concepts
+- Internal & external tooling concepts
 
-API development for game hacking tools
+- API development for game hacking tools
 
-Packet inspection & basic manipulation
+- Packet inspection & basic manipulation
 
-Anti-cheat research (defensive & analytical focus)
+- Anti-cheat research (defensive & analytical focus)
 
-API Development
+# API Development
 
-Custom API design for tooling
+- Custom API design for tooling
 
-Game-related API development
+- Game-related API development
 
-Client–server communication logic
+- Client–server communication logic
 
-API wrappers & abstraction layers
+- API wrappers & abstraction layers
 
-Automation through APIs
+- Automation through APIs
 
-Cybersecurity Foundations
+# Cybersecurity Foundations
 
-Reverse engineering for security analysis
+- Reverse engineering for security analysis
 
-Malware analysis basics (static & dynamic)
+- Malware analysis basics (static & dynamic)
 
-Network behavior analysis
+- Network behavior analysis
 
-Understanding of common exploitation concepts
+- Understanding of common exploitation concepts
 
-Secure coding awareness
+- Secure coding awareness
 
-Tools & Frameworks
+# Tools & Frameworks
 
-Git & GitHub
+- Git & GitHub
 
-Visual Studio / Rider
+- Visual Studio / Rider
 
-WinDbg / x64dbg
+- WinDbg / x64dbg
 
-Ghidra / IDA Free
+- Ghidra / IDA Free
 
-Cheat Engine (analysis & research use)
+- Cheat Engine (analysis & research use)
 
-Wireshark
+- Wireshark
 
-Nmap
+- Nmap
 
-Frida (basic usage)
+- Frida (basic usage)
