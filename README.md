@@ -11,7 +11,7 @@ Programming & Languages
 
 # (Actively Using / Mastering)
 
-. C++
+- C++
 
 . C#
 
