@@ -1,6 +1,6 @@
 # About
 
-17 years old, focused on software development, reverse engineering, and game-related research
+___ years old, focused on software development, reverse engineering, and game-related research
 Owner of CLDevs Softworks, working on personal and collaborative projects primarily for learning and experimentation
 Experienced in low-level analysis, Windows/Linux internals, and API-based tooling
 Projects are built for fun, curiosity, and skill growth rather than commercial intent
